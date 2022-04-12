@@ -1,7 +1,7 @@
 {
 	"ip":"StellerSmp.mcalias.com",
 	"port": 25565,
-	"name": "StellerSmp",
+	"name": "StellerSmp1",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register (rajlify) (rajlify)",
